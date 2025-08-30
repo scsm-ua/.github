@@ -12,6 +12,8 @@
 
 **ES** [Guía de Kīrtan. Edición Detallada](https://github.com/scsm-ua/kirtan-guide-es)
 
+**PT** [Livro de Kirtan](https://github.com/scsm-ua/kirtan-guide-pt)
+
 **RU** [Гаудия Гитанджали](https://github.com/scsm-ua/gaudiya-gitanjali-ru)
 
 **LV** [Gaudija Gītandžalī. Vaišnavu dziesmas un lūgšanas](https://github.com/scsm-ua/gaudiya-gitanjali-lv)
