@@ -1,10 +1,6 @@
-## Books
-
-**LV** [Bhagavad-gīta](https://github.com/scsm-ua/bhagavad-gita-lv)
-
-**UA** [Бгаґавад Ґіта](https://github.com/scsm-ua/bhagavad-gita-ua)
-
 ## Songbooks
+
+**EN** [Kirtan Guide. London Edition, 2026](https://github.com/scsm-ua/kirtan-guide-en-2026)
 
 **EN** [Kirtan Guide. Chiang Mai English Edition, 2020](https://github.com/scsm-ua/kirtan-guide-en)
 
@@ -19,3 +15,9 @@
 **LV** [Gaudija Gītandžalī. Vaišnavu dziesmas un lūgšanas](https://github.com/scsm-ua/gaudiya-gitanjali-lv)
 
 **UA** [Ґаудія Ґітанджалі](https://github.com/scsm-ua/gaudiya-gitanjali-ua)
+
+## Books
+
+**LV** [Bhagavad-gīta](https://github.com/scsm-ua/bhagavad-gita-lv)
+
+**UA** [Бгаґавад Ґіта](https://github.com/scsm-ua/bhagavad-gita-ua)
