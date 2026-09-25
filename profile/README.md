@@ -1,8 +1,8 @@
 ## Songbooks
 
-**EN** [Kirtan Guide. London Edition, 2026](https://github.com/scsm-ua/kirtan-guide-en-2026)
+**EN** [Kirtan Guide. London Edition, 2026](https://github.com/scsm-ua/kirtan-guide-en-london)
 
-**EN** [Kirtan Guide. Chiang Mai English Edition, 2020](https://github.com/scsm-ua/kirtan-guide-en)
+**EN** [Kirtan Guide. Chiang Mai English Edition, 2022](https://github.com/scsm-ua/kirtan-guide-en)
 
 **EN** [Kirtan Guide. Pocket Edition](https://github.com/scsm-ua/kirtan-guide-pocket-edition)
 
