@@ -4,7 +4,7 @@
 
 **EN** [Kirtan Guide. Chiang Mai English Edition, 2022](https://github.com/scsm-ua/kirtan-guide-en)
 
-**EN** [Kirtan Guide. Pocket Edition](https://github.com/scsm-ua/kirtan-guide-pocket-edition)
+**EN** [Kirtan Guide. Pocket Edition, 2013](https://github.com/scsm-ua/kirtan-guide-pocket-edition)
 
 **ES** [Guía de Kīrtan. Edición Detallada](https://github.com/scsm-ua/kirtan-guide-es)
 
